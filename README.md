@@ -75,3 +75,26 @@ O diagnóstico de eficiência de campanhas revela o perfil de quem efetivamente 
 * Do total de 1.980 visitas registradas no site, a maioria esmagadora vem de Solteiros com Curso Superior (598 visitas) e Solteiros com Doutorado (256 visitas).
 
 * Casados somam 516 visitas e Divorciados 279 visitas.
+
+## Matriz de Maturidade & Plano de Ação Acionável
+
+> **Visão Executiva:** Com base no diagnóstico dos três pilares analisados (*Clientes*, *Comportamento* e *Campanhas*), estabelecemos um plano focado em maximizar o ROI, otimizar a alocação de orçamento de mídia e fortalecer a estratégia *Omnichannel*.
+
+---
+
+### Tabela Direcionadora de Ações
+
+| Pilar | Ação Recomendada | KPI Principal | Impacto Esperado |
+| :--- | :--- | :--- | :--- |
+| **Clientes** | Redirecionar a persona de marketing para focar em **profissionais com ensino superior/pós-graduação**, adaptando a comunicação para estilo de vida e independência. | Taxa de Qualificação de Lead (SQL) | Maior assertividade na atração de clientes com renda média acima de R$ 55 Mil/ano. |
+| **Comportamento** | **Otimizar a experiência Omnichannel**: Utilizar o e-commerce (Site) como vitrine e alavanca estratégica para modelos *Drive-to-Store* na Loja Física. | Taxa de Conversão Web & *Footfall* na Loja | Aumento no LTV e na frequência de compra combinando canais físicos (46,37%) e digitais (32,53%). |
+| **Campanhas** | **Segmentação por Composição Familiar**: Excluir ou readequar abordagens para clientes com 2+ filhos, otimizando 100% do *budget* no público **sem filhos**. | ROAS & Taxa de Conversão de Campanha | Aumento do ROI ao eliminar o desperdício de verba em perfis com baixíssima taxa de conversão histórico. |
+| **Geografia** | Concentrar o orçamento de mídia paga e estratégias de expansão prioritariamente nos mercados validados: **EUA, Espanha e Chile**. | Custo de Aquisição de Clientes (CAC) por País | Ganho de escala na receita global com custo de aquisição significativamente menor. |
+
+---
+
+### Próximos Passos Executivos
+
+1. **Readequação do Budget de Mídia:** Redirecionar verbas das campanhas sem filtro demográfico para os clusters de alto poder aquisitivo e sem dependentes.
+2. **Integração dos Canais:** Mapear a jornada do cliente entre o Site (pesquisa e intenção) e a Loja Física (conversão final).
+3. **Acompanhamento Metrificado:** Monitorar a evolução quinzenal dos KPIs descritos acima através do painel gerencial no Power BI.
