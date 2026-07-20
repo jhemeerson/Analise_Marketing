@@ -4,6 +4,9 @@
 
 Este relatório apresenta um diagnóstico aprofundado com base nos dados consolidados do dashboard de performance. A análise está estruturada nos pilares Clientes, Comportamento e Campanhas, fornecendo a visão executiva e os direcionamentos estratégicos para a tomada de decisão da diretoria.
 
+[Relatório Online: Marketing.](https://app.powerbi.com/view?r=eyJrIjoiY2RjYTM4M2EtZTBkMi00ZTQwLTgzOGItOGViMDdlOGY3N2ZmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+
 ## 1. Contexto: Clientes (Demografia e Perfil)
 
 A base total analisada é composta por 1.980 clientes, apresentando uma Média Salarial Anual de R$ 51,98 Mil. O perfil demográfico revela uma forte concentração em segmentos específicos:
