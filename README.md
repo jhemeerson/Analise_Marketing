@@ -101,3 +101,7 @@ O diagnóstico de eficiência de campanhas revela o perfil de quem efetivamente 
 1. **Readequação do Budget de Mídia:** Redirecionar verbas das campanhas sem filtro demográfico para os clusters de alto poder aquisitivo e sem dependentes.
 2. **Integração dos Canais:** Mapear a jornada do cliente entre o Site (pesquisa e intenção) e a Loja Física (conversão final).
 3. **Acompanhamento Metrificado:** Monitorar a evolução quinzenal dos KPIs descritos acima através do painel gerencial no Power BI.
+   
+<br>
+
+[Portfólio: Jhemerson Oliveira.](https://portfolio-jhemerson-oliveira.lovable.app/)
