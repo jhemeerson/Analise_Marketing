@@ -1,107 +1,289 @@
-# Analise_Marketing
+# 📊 Analise_Marketing
 
-## Relatório Gerencial de Performance & Diagnóstico Estratégico.
+## Performance & Diagnóstico Estratégico
 
-Este relatório apresenta um diagnóstico aprofundado com base nos dados consolidados do dashboard de performance. A análise está estruturada nos pilares Clientes, Comportamento e Campanhas, fornecendo a visão executiva e os direcionamentos estratégicos para a tomada de decisão da diretoria.
+Este projeto apresenta um **diagnóstico estratégico de Marketing** desenvolvido a partir dos dados consolidados no dashboard de performance.
 
-[Relatório Online: Marketing.](https://app.powerbi.com/view?r=eyJrIjoiY2RjYTM4M2EtZTBkMi00ZTQwLTgzOGItOGViMDdlOGY3N2ZmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+A análise está estruturada em quatro dimensões principais:
 
+* 👥 **Clientes** — Demografia e perfil
+* 🛒 **Comportamento** — Consumo, canais e renda
+* 🎯 **Campanhas** — Adesão, geografia e tráfego
+* 🚀 **Plano de Ação** — Recomendações estratégicas e KPIs
 
-## 1. Contexto: Clientes (Demografia e Perfil)
+> **Objetivo:** transformar dados de clientes e comportamento de consumo em insights acionáveis para apoiar decisões de marketing, mídia e crescimento.
 
-A base total analisada é composta por 1.980 clientes, apresentando uma Média Salarial Anual de R$ 51,98 Mil. O perfil demográfico revela uma forte concentração em segmentos específicos:
+### 🔗 Acesso ao Dashboard
 
-* Estado Civil: Predominância expressiva de Solteiros (59,85% / 1.185 clientes), seguidos por Casados (26,06% / 516 clientes) e Divorciados (14,09% / 279 clientes).
-
-* Escolaridade: Alta qualificação acadêmica na base. 88,64% (1.755 clientes) possuem Ensino Superior ou pós-graduação (Doutorado/Mestrado), enquanto apenas 11,36% (225 clientes) não possuem ensino superior.
-
-**Massa Salarial e Volume de Compras por Escolaridade:**
-
-* Clientes com Curso Superior lideram tanto em volume de compras (12.588 compras) quanto em representatividade salarial (R$ 52 Mi).
-
-* O segmento de Doutorado gera 5.716 compras (R$ 24 Mi em salários) e Mestrado gera 4.167 compras (R$ 18 Mi).
-
-* Clientes de Primeiro Grau representam a menor fração (237 compras / R$ 1 Mi).
-
-Insight de Clientes: Nosso cliente ideal (ICP) é altamente qualificado (nível superior ou acima) e majoritariamente solteiro. A comunicação e a proposta de valor devem refletir um perfil sofisticado e de bom poder aquisitivo.
-
-## 2. Contexto: Comportamento (Consumo, Canais e Renda)
-
-A análise comportamental cruza o volume de gastos totais (R$ 1,196 Milhão) com hábitos de compra, poder aquisitivo e composição familiar:
-
-**Sensibilidade à Presença de Filhos (Fator Crítico):**
-
-* Clientes sem filhos em casa (0 filhos) correspondem a R$ 1.027,84 Mil (85,9%) de todo o gasto da empresa.
-
-* Clientes com 1 filho movimentam R$ 162,88 Mil, e com 2 filhos apenas R$ 5,38 Mil.
-
-* Conclusão: A presença de filhos reduz drasticamente a renda disponível/disposição de gasto para a nossa categoria de produto.
-
-* Correlação Renda vs. Gasto: O gráfico de dispersão confirma que os gastos sobem progressivamente com o aumento da renda anual, atingindo o pico na faixa entre R$ 50 Mil e R$ 100 Mil anuais.
-
-* Divisão de Gastos por Perfil: Solteiros lideram o volume financeiro (R$ 702.686), seguidos por Casados (R$ 316.790) e Divorciados (R$ 176.623). Dentro do grupo principal, quem possui ensino superior absorve a maior fatia dos gastos (R$ 360.827).
-
-**Distribuição por Canais de Venda:**
-
-* Loja Física: É o canal dominante, responsável por 11 Mil compras (46,37%).
-
-* Site: Representa o segundo maior volume, com 8 Mil compras (32,53%).
-
-* Catálogo: Responde por 5 Mil compras (21,11%).
-
-## 3. Contexto: Campanhas (Adesão, Geofrafia e Tráfego)
-
-O diagnóstico de eficiência de campanhas revela o perfil de quem efetivamente converte e onde estão concentradas as oportunidades geográficas e digitais:
-
-**Geografia das Compras:**
-
-* Os Estados Unidos lideram isoladamente o volume de compras com 975 conversões, seguidos por Espanha (302) e Chile (244).
-
-* O Brasil (135), Argentina (133), Alemanha (100) e Portugal (91) completam a base de clientes globais.
-
-**Perfil Financeiro do Convertido:**
-
-* Clientes que Compraram na Campanha possuem média salarial de R$ 59 Mil/ano, contra R$ 51 Mil/ano dos que Não Compraram.
-
-* A adesão às campanhas está diretamente atrelada ao maior poder aquisitivo.
-
-**Efeito "Filhos" na Conversão da Campanha:**
-
-* O grupo sem filhos registrou 207 compras na campanha (contra 930 não compradores).
-
-* O grupo com 1 filho gerou 110 compras (contra 695 não compradores).
-
-* Clientes com 2 filhos tiveram adesão residual (apenas 2 compras).
-
-**Tráfego no Site (Visitas):**
-
-* Do total de 1.980 visitas registradas no site, a maioria esmagadora vem de Solteiros com Curso Superior (598 visitas) e Solteiros com Doutorado (256 visitas).
-
-* Casados somam 516 visitas e Divorciados 279 visitas.
-
-## Matriz de Maturidade & Plano de Ação Acionável
-
-> **Visão Executiva:** Com base no diagnóstico dos três pilares analisados (*Clientes*, *Comportamento* e *Campanhas*), estabelecemos um plano focado em maximizar o ROI, otimizar a alocação de orçamento de mídia e fortalecer a estratégia *Omnichannel*.
+👉 [**Relatório Online — Marketing | Power BI**](https://app.powerbi.com/view?r=eyJrIjoiY2RjYTM4M2EtZTBkMi00ZTQwLTgzOGItOGViMDdlOGY3N2ZmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 ---
 
-### Tabela Direcionadora de Ações
+# 👥 1. Clientes — Demografia e Perfil
 
-| Pilar | Ação Recomendada | KPI Principal | Impacto Esperado |
-| :--- | :--- | :--- | :--- |
-| **Clientes** | Redirecionar a persona de marketing para focar em **profissionais com ensino superior/pós-graduação**, adaptando a comunicação para estilo de vida e independência. | Taxa de Qualificação de Lead (SQL) | Maior assertividade na atração de clientes com renda média acima de R$ 55 Mil/ano. |
-| **Comportamento** | **Otimizar a experiência Omnichannel**: Utilizar o e-commerce (Site) como vitrine e alavanca estratégica para modelos *Drive-to-Store* na Loja Física. | Taxa de Conversão Web & *Footfall* na Loja | Aumento no LTV e na frequência de compra combinando canais físicos (46,37%) e digitais (32,53%). |
-| **Campanhas** | **Segmentação por Composição Familiar**: Excluir ou readequar abordagens para clientes com 2+ filhos, otimizando 100% do *budget* no público **sem filhos**. | ROAS & Taxa de Conversão de Campanha | Aumento do ROI ao eliminar o desperdício de verba em perfis com baixíssima taxa de conversão histórico. |
-| **Geografia** | Concentrar o orçamento de mídia paga e estratégias de expansão prioritariamente nos mercados validados: **EUA, Espanha e Chile**. | Custo de Aquisição de Clientes (CAC) por País | Ganho de escala na receita global com custo de aquisição significativamente menor. |
+A base analisada é composta por **1.980 clientes**, com média salarial anual de aproximadamente **R$ 51,98 mil**.
+
+## Perfil Demográfico
+
+| Indicador                        |          Resultado |
+| -------------------------------- | -----------------: |
+| Total de clientes                |          **1.980** |
+| Média salarial anual             |   **R$ 51,98 mil** |
+| Solteiros                        | **59,85% — 1.185** |
+| Casados                          |   **26,06% — 516** |
+| Divorciados                      |   **14,09% — 279** |
+| Ensino superior ou pós-graduação | **88,64% — 1.755** |
+| Sem ensino superior              |   **11,36% — 225** |
+
+### 🎓 Massa Salarial e Volume de Compras
+
+Clientes com **ensino superior** apresentam a maior participação tanto em volume de compras quanto em massa salarial.
+
+* **Ensino Superior:** 12.588 compras / R$ 52 milhões em salários
+* **Doutorado:** 5.716 compras / R$ 24 milhões em salários
+* **Mestrado:** 4.167 compras / R$ 18 milhões em salários
+* **Primeiro Grau:** 237 compras / R$ 1 milhão em salários
+
+### 💡 Insight
+
+> **ICP identificado:** cliente predominantemente **solteiro, com ensino superior ou pós-graduação e maior poder aquisitivo**.
+
+A comunicação e a proposta de valor devem refletir um público com maior nível de qualificação, independência financeira e potencial de consumo.
 
 ---
 
-### Próximos Passos Executivos
+# 🛒 2. Comportamento — Consumo, Canais e Renda
 
-1. **Readequação do Budget de Mídia:** Redirecionar verbas das campanhas sem filtro demográfico para os clusters de alto poder aquisitivo e sem dependentes.
-2. **Integração dos Canais:** Mapear a jornada do cliente entre o Site (pesquisa e intenção) e a Loja Física (conversão final).
-3. **Acompanhamento Metrificado:** Monitorar a evolução quinzenal dos KPIs descritos acima através do painel gerencial no Power BI.
-   
-<br>
+O comportamento de consumo foi analisado considerando **volume de gastos, renda, composição familiar, perfil demográfico e canais de venda**.
 
-[Portfólio: Jhemerson Oliveira.](https://portfolio-jhemerson-oliveira.lovable.app/)
+### 💰 Volume Total de Gastos
+
+**R$ 1,196 milhão** em gastos totais analisados.
+
+## 👨‍👩‍👧 Impacto da Composição Familiar
+
+A presença de filhos apresenta forte relação com o volume de gastos:
+
+| Número de filhos |                      Gastos |
+| ---------------- | --------------------------: |
+| 0 filhos         | **R$ 1.027,84 mil — 85,9%** |
+| 1 filho          |           **R$ 162,88 mil** |
+| 2 filhos         |             **R$ 5,38 mil** |
+
+### 💡 Insight
+
+Clientes **sem filhos** concentram a maior parte do consumo, indicando maior disponibilidade de renda para a categoria analisada.
+
+Clientes com **2 filhos** apresentam participação extremamente reduzida no volume de gastos.
+
+---
+
+## 💵 Relação entre Renda e Gasto
+
+A análise de dispersão demonstra uma tendência de crescimento dos gastos conforme aumenta a renda anual.
+
+O maior volume de consumo concentra-se na faixa de:
+
+> **R$ 50 mil a R$ 100 mil de renda anual.**
+
+---
+
+## 👤 Gastos por Estado Civil
+
+| Perfil      |         Gastos |
+| ----------- | -------------: |
+| Solteiros   | **R$ 702.686** |
+| Casados     | **R$ 316.790** |
+| Divorciados | **R$ 176.623** |
+
+Dentro dos principais grupos, clientes com **ensino superior** concentram a maior parcela dos gastos, chegando a **R$ 360.827**.
+
+---
+
+## 🛍️ Distribuição por Canal de Venda
+
+| Canal          |    Compras | Participação |
+| -------------- | ---------: | -----------: |
+| 🏪 Loja Física | **11 mil** |   **46,37%** |
+| 🌐 Site        |  **8 mil** |   **32,53%** |
+| 📖 Catálogo    |  **5 mil** |   **21,11%** |
+
+### 💡 Insight
+
+A **Loja Física permanece como principal canal de vendas**, enquanto o Site apresenta participação relevante e potencial para atuar como ferramenta de geração de demanda e direcionamento para lojas físicas.
+
+---
+
+# 🎯 3. Campanhas — Adesão, Geografia e Tráfego
+
+A análise de campanhas busca identificar **quem converte, onde estão os clientes mais relevantes e quais características estão associadas à conversão**.
+
+## 🌎 Geografia das Compras
+
+Os principais mercados em volume de conversões são:
+
+| País                | Conversões |
+| ------------------- | ---------: |
+| 🇺🇸 Estados Unidos |    **975** |
+| 🇪🇸 Espanha        |    **302** |
+| 🇨🇱 Chile          |    **244** |
+| 🇧🇷 Brasil         |    **135** |
+| 🇦🇷 Argentina      |    **133** |
+| 🇩🇪 Alemanha       |    **100** |
+| 🇵🇹 Portugal       |     **91** |
+
+### 💡 Insight
+
+**EUA, Espanha e Chile** representam os mercados com maior volume de conversões e devem ser considerados prioritários para estratégias de expansão e mídia.
+
+---
+
+## 💰 Perfil Financeiro dos Convertidos
+
+Clientes que **compraram durante a campanha** apresentam:
+
+* **R$ 59 mil/ano** de média salarial
+
+Clientes que **não compraram** apresentam:
+
+* **R$ 51 mil/ano** de média salarial
+
+### 💡 Insight
+
+A maior renda média entre os convertidos sugere uma relação positiva entre **poder aquisitivo e propensão à conversão**.
+
+---
+
+## 👨‍👩‍👧 Impacto dos Filhos na Conversão
+
+| Filhos | Compraram | Não Compraram |
+| ------ | --------: | ------------: |
+| 0      |   **207** |           930 |
+| 1      |   **110** |           695 |
+| 2      |     **2** |             — |
+
+Clientes com **2 filhos apresentam adesão residual**, reforçando a necessidade de avaliar a eficiência de campanhas direcionadas a esse perfil.
+
+---
+
+## 🌐 Tráfego no Site
+
+Foram registradas **1.980 visitas**.
+
+Os principais grupos são:
+
+* **Solteiros + Ensino Superior:** 598 visitas
+* **Solteiros + Doutorado:** 256 visitas
+* **Casados:** 516 visitas
+* **Divorciados:** 279 visitas
+
+### 💡 Insight
+
+O tráfego apresenta forte concentração em clientes **solteiros e com maior nível educacional**, coincidindo com o perfil de maior relevância identificado na análise de clientes.
+
+---
+
+# 🚀 4. Matriz de Maturidade & Plano de Ação
+
+> **Visão Executiva:** O diagnóstico dos pilares de **Clientes, Comportamento e Campanhas** indica oportunidades claras para melhorar a eficiência da aquisição, otimizar o orçamento de mídia e fortalecer uma estratégia **Omnichannel**.
+
+## 📌 Tabela Direcionadora de Ações
+
+| Pilar                | Ação Recomendada                                                                                                                        | KPI Principal                      | Impacto Esperado                                                                   |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------------- |
+| 👥 **Clientes**      | Direcionar a persona para profissionais com ensino superior/pós-graduação, adaptando a comunicação para estilo de vida e independência. | Taxa de Qualificação de Lead (SQL) | Maior assertividade na atração de clientes com renda média acima de R$ 55 mil/ano. |
+| 🛒 **Comportamento** | Otimizar a experiência Omnichannel utilizando o Site como vitrine e alavanca para estratégias **Drive-to-Store**.                       | Conversão Web & Footfall           | Aumento do LTV e frequência de compra combinando canais físicos e digitais.        |
+| 🎯 **Campanhas**     | Segmentar campanhas por composição familiar e reavaliar investimentos em perfis com baixa conversão histórica.                          | ROAS & Conversão                   | Aumento do ROI e redução de desperdícios no orçamento de mídia.                    |
+| 🌎 **Geografia**     | Priorizar EUA, Espanha e Chile nas estratégias de mídia e expansão.                                                                     | CAC por País                       | Ganho de escala e maior eficiência na aquisição de clientes.                       |
+
+---
+
+# 📈 5. Próximos Passos Executivos
+
+### 1. 💰 Readequação do Budget de Mídia
+
+Redirecionar investimentos de campanhas sem segmentação para **clusters de maior poder aquisitivo e maior propensão à conversão**.
+
+### 2. 🔄 Integração dos Canais
+
+Mapear a jornada do consumidor entre:
+
+**Site → Pesquisa → Intenção → Loja Física → Conversão**
+
+O objetivo é transformar o digital em uma alavanca para o crescimento do canal físico.
+
+### 3. 📊 Acompanhamento dos KPIs
+
+Monitorar quinzenalmente os principais indicadores por meio do dashboard gerencial no Power BI:
+
+* **ROAS**
+* **CAC**
+* **Taxa de Conversão**
+* **SQL**
+* **LTV**
+* **Footfall**
+* **Conversão Web**
+* **Conversão por País**
+
+---
+
+# 🎯 Principais Insights
+
+> ### 01 — ICP claramente definido
+>
+> Clientes **solteiros, com ensino superior/pós-graduação e maior renda** representam o principal perfil estratégico.
+
+> ### 02 — Composição familiar importa
+>
+> Clientes **sem filhos concentram 85,9% dos gastos**, indicando maior disponibilidade de renda para consumo.
+
+> ### 03 — Renda influencia conversão
+>
+> Clientes convertidos apresentam renda média superior àqueles que não converteram.
+
+> ### 04 — Loja Física ainda domina
+>
+> A Loja Física representa **46,37% das compras**, enquanto o Site responde por **32,53%**.
+
+> ### 05 — Oportunidade internacional
+>
+> **EUA, Espanha e Chile** concentram os maiores volumes de conversão e devem ser priorizados na expansão.
+
+---
+
+# 🛠️ Tecnologias & Ferramentas
+
+* **Power BI**
+* **DAX**
+* **Power Query**
+* **Excel**
+* **Data Analysis**
+* **Business Intelligence**
+* **Marketing Analytics**
+* **KPI & Performance Analysis**
+
+---
+
+## 📊 Dashboard
+
+👉 [**Acessar o Relatório Interativo no Power BI**](https://app.powerbi.com/view?r=eyJrIjoiY2RjYTM4M2EtZTBkMi00ZTQwLTgzOGItOGViMDdlOGY3N2ZmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+---
+
+## 👨‍💻 Autor
+
+**Jhemerson Oliveira**
+
+Analista de Dados | Business Intelligence
+
+🔗 [**Portfólio**](https://portfolio-jhemerson-oliveira.lovable.app/)
+
+---
+
+### 📌 Sobre o Projeto
+
+Este projeto demonstra a aplicação de **Business Intelligence, análise exploratória de dados e pensamento analítico** para transformar dados de clientes, consumo e campanhas em **insights estratégicos e recomendações acionáveis para a gestão**.
+
+
+
+
